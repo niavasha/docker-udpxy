@@ -2,7 +2,7 @@ FROM alpine
 
 LABEL original-maintainer="philipp@haefelfinger.ch"
 LABEL maintainer="niavasha@gmail.com"
-LABES maintainer="ilya.prihlop@gmail.com"
+LABEL maintainer="ilya.prihlop@gmail.com"
 
 ENV HOME /tmp
 WORKDIR /tmp
